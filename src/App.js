@@ -4,7 +4,7 @@ import Aboutme from "./components/pages/aboutme";
 import Contactme from "./components/pages/contactme";
 import Home from "./components/pages/home";
 import Projects from "./components/pages/projects";
-import MaterialNav from "./components/materialnav";
+import Materialui from "./components/materialui";
 import Pagefooter from "./components/pagefooter";
 import './App.css';
 
@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Router>
        <Switch>
-         <MaterialNav/>
+         <Materialui/>
        <div>
          <Route exact path="/Home" component={Home} />
          <Route exact path="/about" component={Aboutme} />

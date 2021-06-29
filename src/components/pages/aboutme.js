@@ -1,5 +1,5 @@
 import React from "react"
-
+import me from "../../assets/images/me.jpg"
 
 
 
@@ -8,11 +8,11 @@ import React from "react"
 function Aboutme() {
     return (
         <div>
+                <div>
+                    <img src={me}alt="me"></img>
+                </div>
             <h1>About Me</h1>
             <div class="aboutme">
-                <div>
-                    <img></img>
-                </div>
 
                 <p> I was born in Spartanburg SC on September 15, 1990. I am the second of two siblings,
                     my older sister is Brittany.
@@ -50,7 +50,7 @@ function Aboutme() {
                 <p> I first started to think about web development as my future while at my current job.  I want more out of life for my family and for myself in addition to the personal and 
                     professional growth it provides.  I have always had a love of technology and how it continues to evolve and the more I started to think about it, the more it made sense to make a change.   
                     I enrolled in the full stack web development certificate program at the University of North Carolina at Charlotte and
-                    that is where my passion for coding truly grew as the possibilities are truly endless.
+                    that is where my passion for coding truly grew as the possibilities are endless.
                 </p>
 
 
