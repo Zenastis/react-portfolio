@@ -14,8 +14,7 @@ function Aboutme() {
             <h1>About Me</h1>
             <div class="aboutme">
 
-                <p> I was born in Spartanburg SC on September 15, 1990. I am the second of two siblings,
-                    my older sister is Brittany.
+                <p> I was born in Spartanburg SC on September 15, 1990. I am the second of two siblings.  
                     My mother was resturaunt owner and my step father was a grading company owner.  Together they operated a marina in Salisbury Nc 
                     on High Rock Lake.  I spent my formative years in Salisbury, highschool and a brief time after.  
                 </p>
