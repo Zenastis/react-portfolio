@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-porfolio/static/css/main.197a4a99.chunk.css",
+    "main.js": "/react-porfolio/static/js/main.5d3121d1.chunk.js",
+    "main.js.map": "/react-porfolio/static/js/main.5d3121d1.chunk.js.map",
+    "runtime-main.js": "/react-porfolio/static/js/runtime-main.61e9598d.js",
+    "runtime-main.js.map": "/react-porfolio/static/js/runtime-main.61e9598d.js.map",
+    "static/js/2.7c8f175d.chunk.js": "/react-porfolio/static/js/2.7c8f175d.chunk.js",
+    "static/js/2.7c8f175d.chunk.js.map": "/react-porfolio/static/js/2.7c8f175d.chunk.js.map",
+    "static/js/3.1247b532.chunk.js": "/react-porfolio/static/js/3.1247b532.chunk.js",
+    "static/js/3.1247b532.chunk.js.map": "/react-porfolio/static/js/3.1247b532.chunk.js.map",
+    "index.html": "/react-porfolio/index.html",
+    "static/css/main.197a4a99.chunk.css.map": "/react-porfolio/static/css/main.197a4a99.chunk.css.map",
+    "static/js/2.7c8f175d.chunk.js.LICENSE.txt": "/react-porfolio/static/js/2.7c8f175d.chunk.js.LICENSE.txt",
+    "static/media/charlotteskyline.aa119dfe.jpeg": "/react-porfolio/static/media/charlotteskyline.aa119dfe.jpeg",
+    "static/media/me.1b2527f1.jpg": "/react-porfolio/static/media/me.1b2527f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61e9598d.js",
+    "static/js/2.7c8f175d.chunk.js",
+    "static/css/main.197a4a99.chunk.css",
+    "static/js/main.5d3121d1.chunk.js"
+  ]
+}
