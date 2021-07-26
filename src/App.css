@@ -37,6 +37,92 @@
   }
 }
 
+.me{
+  height: 500px;
+  width: 500px;
+}
+
 .aboutme {
   padding: 15px;
+}
+
+.cltapp {
+  width: 200px;
+  height: 300px;
+}
+
+.htmlicon {
+  padding-top: 100px;
+  height: 300px;
+  width: 300px;
+}
+
+.cssicon {
+  height: 300px;
+  width: 600px;
+}
+
+.jsicon {
+  height: 300px;
+  width: 300px;
+}
+
+.jqicon{
+  height: 300px;
+  width: 300px;
+}
+
+.nodeicon{
+  height: 300px;
+  width: 300px;
+}
+
+.bootstrapicon {
+  height: 300px;
+  width: 300px;
+}
+
+.oopicon {
+  height: 300px;
+  width: 300px;
+}
+
+.expressicon{
+  height: 300px;
+  width: 300px;
+}
+
+.reacticon{
+  height: 300px;
+  width: 300px;
+}
+
+.mysqlicon{
+  height: 300px;
+  width: 300px;
+}
+
+.mongodbicon{
+  height: 300px;
+  width: 300px;
+}
+
+.textadventure{
+  height: 300px;
+  width: 500px;
+}
+
+.notetaker{
+  height: 300px;
+  width: 500px;
+}
+
+.charlotteskyline{
+  height: 300px;
+  width: 600px;
+}
+
+.beerbox{
+  height: 300px;
+  width: 400px;
 }

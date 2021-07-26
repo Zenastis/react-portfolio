@@ -24,6 +24,8 @@ import HomeIcon from '@material-ui/icons/Home';
 import InfoIcon from '@material-ui/icons/Info';
 import ContactsIcon from '@material-ui/icons/Contacts';
 import WorkIcon from '@material-ui/icons/Work';
+import Technologies from './pages/technologies';
+import ImportantDevicesIcon from '@material-ui/icons/ImportantDevices';
 
 
 const drawerWidth = 240;
@@ -110,6 +112,10 @@ const styles = theme => ({
               <WorkIcon/>
             <ListItemText className="matnav">Projects</ListItemText>
           </ListItem>
+          <ListItem  button component={Link} to="/Technologies" onClick={onItemClick('Technologies')}>
+              <ImportantDevicesIcon/>
+            <ListItemText className="matnav">Technologies</ListItemText>
+          </ListItem>
         </List>
       </Drawer>
       <main className={classes.content}>
@@ -117,6 +123,7 @@ const styles = theme => ({
           <Route path="/Aboutme" component={Aboutme} />
           <Route path="/Contactme" component={Contactme} />
           <Route path="/Projects" component={Projects} />
+          <Route path="/Technologies" component={Technologies} />
       </main>
       </Router>
     )

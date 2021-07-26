@@ -7,7 +7,7 @@ function Home() {
         <div className="background">
             <div>
 
-                <img src={me}alt="me"></img>
+                <img className="me" src={me}alt="me"></img>
                 <h1 className="myname">Samuel Mcswain</h1>
                 <br></br>
                 <h2 className="fullstack">Junior Web Developer</h2>

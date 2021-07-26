@@ -6,6 +6,7 @@ import Home from "./components/pages/home";
 import Projects from "./components/pages/projects";
 import Materialui from "./components/materialui";
 import Pagefooter from "./components/pagefooter";
+import Technologies from "./components/pages/technologies";
 import './App.css';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
          <Route exact path="/about" component={Aboutme} />
          <Route exact path="/portfolio" component={Projects} />
          <Route exact path="/contact" component={Contactme} />
+         <Route exact path="/technologies" component={Technologies} />
        </div>
       </Switch>
      </Router>

@@ -9,7 +9,7 @@ function Aboutme() {
     return (
         <div>
                 <div>
-                    <img src={me}alt="me"></img>
+                    <img className="me" src={me}alt="me"></img>
                 </div>
             <h1>About Me</h1>
             <div class="aboutme">

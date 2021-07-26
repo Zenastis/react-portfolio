@@ -38,6 +38,14 @@ function Navigation() {
               Projects
             </Link>
           </li>
+          <li className="nav-item">
+            <Link
+              to="/technologies"
+              className={location.pathname === "/technologies" ? "nav-link active" : "nav-link"}
+            >
+              Technologies
+            </Link>
+          </li>
           
         </ul>
         
